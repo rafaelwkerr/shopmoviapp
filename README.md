@@ -1,2 +1,2 @@
-# shopmoviapp
+# shopmovi app
 shopmovi app android
